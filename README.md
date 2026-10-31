@@ -1,6 +1,6 @@
 # Ameya Kella: MIT Makers Portfolio
 
-Hello! This page serves as the centralized hub for my MIT Maker Portfolio code submissions. The code for my two projects is hosted across two of my GitHub handles (since I switched over to a new account in the middle of high school).
+Hello! This page serves as the centralized hub for my MIT Maker Portfolio code submissions. The code for my two projects is hosted across two of my GitHub handles (since I switched over to a new account in the middle of high school). To verify that these projects are the work of me and my team, please view the profile under both the "ameya-kella" and "frfnstf" usernames.
 
 ### Project 1: Signify
 * **Github Repository**: https://github.com/ameya-kella/tsa_software_dev_nationals2526
